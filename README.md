@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://mac-25.github.io/.github/cubase-14">  
+<a href="https://za-loop-osx-software.github.io/.github/cubase-14">  
 <img src="https://img.shields.io/badge/⬇️_Get_Cubase_14_for_Mac-blue?style=for-the-badge&logo=apple" alt="Get Cubase 14 for Mac">  
 </a>  
 </div>  
